@@ -1,0 +1,8 @@
+int32 activate_sensor
+
+int32 NONE = 0
+int32 SYNCSENSOR = 1
+int32 CONTINUOUSTRIGGER = 2
+int32 TRIGGER = 2
+---
+std_msgs/Header header

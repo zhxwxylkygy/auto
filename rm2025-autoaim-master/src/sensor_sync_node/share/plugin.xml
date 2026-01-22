@@ -1,0 +1,7 @@
+<library path="lib/libsensor_sync_node">
+  <class name="sensorsync::SensorSyncNode" type="sensorsync::SensorSyncNode" base_class_type="rclcpp_components::NodeFactory">
+    <description>
+      A camera node implementation.
+    </description>
+  </class>
+</library>

@@ -1,0 +1,7 @@
+trackers_log_level: INFO
+mcu_node_log_level: INFO
+frame_processer_log_level: INFO
+buff_tracker_log_level: INFO
+serial_log_level: INFO
+auto_record_log_level: INFO
+task_manager_log_level: INFO

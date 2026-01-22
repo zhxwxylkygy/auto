@@ -1,0 +1,9 @@
+build
+log
+.cache
+install
+analysis.txt
+rosbag*
+screen.output
+core*
+record/*

@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/root/master/program/RM2025--autoaim/install/trackers/include/**",
+        "/root/master/program/RM2025--autoaim/install/frame_processer/include/**",
+        "/root/master/program/RM2025--autoaim/install/vofa_bridge/include/**",
+        "/root/master/program/RM2025--autoaim/install/mcu_node/include/**",
+        "/root/master/program/RM2025--autoaim/install/param_loader/include/**",
+        "/root/master/program/RM2025--autoaim/install/gx_camera/include/**",
+        "/root/master/program/RM2025--autoaim/install/voml/include/**",
+        "/root/master/program/RM2025--autoaim/install/robot_mapper/include/**",
+        "/root/master/program/RM2025--autoaim/install/interfaces/include/**",
+        "/root/master/program/RM2025--autoaim/install/interface/include/**",
+        "/root/master/program/RM2025--autoaim/install/debug_helper/include/**",
+        "/root/master/program/RM2025--autoaim/install/calculate/include/**",
+        "/opt/ros/humble/include/**",
+        "/root/master/program/RM2025--autoaim/src/calculater/frame_processer/include/**",
+        "/root/master/program/RM2025--autoaim/src/calculater/trackers/include/**",
+        "/root/master/program/RM2025--autoaim/src/camera_node/include/**",
+        "/root/master/program/RM2025--autoaim/src/interface/include/**",
+        "/root/master/program/RM2025--autoaim/src/mcu_node/include/**",
+        "/root/master/program/RM2025--autoaim/src/utils/calculate/include/**",
+        "/root/master/program/RM2025--autoaim/src/utils/debug_helper/include/**",
+        "/root/master/program/RM2025--autoaim/src/utils/gx_camera/include/**",
+        "/root/master/program/RM2025--autoaim/src/utils/param_loader/include/**",
+        "/root/master/program/RM2025--autoaim/src/utils/robot_mapper/include/**",
+        "/root/master/program/RM2025--autoaim/src/utils/vofa_bridge/include/**",
+        "/root/master/program/RM2025--autoaim/src/utils/voml/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

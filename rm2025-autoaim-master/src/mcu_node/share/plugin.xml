@@ -1,0 +1,7 @@
+<library path="lib/libmcunode">
+  <class name="mcunode::McuNode" type="mcunode::McuNode" base_class_type="rclcpp_components::NodeFactory">
+    <description>
+      A frame processing node.
+    </description>
+  </class>
+</library>

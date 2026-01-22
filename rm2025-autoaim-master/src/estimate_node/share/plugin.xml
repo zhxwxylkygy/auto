@@ -1,0 +1,7 @@
+<library path="lib/estimate_node">
+  <class name="trackers::FeatureSubscriber" type="trackers::FeatureSubscriber" base_class_type="rclcpp_components::NodeFactory">
+    <description>
+      A frame processing node.
+    </description>
+  </class>
+</library>

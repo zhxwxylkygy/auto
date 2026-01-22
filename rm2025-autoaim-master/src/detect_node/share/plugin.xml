@@ -1,0 +1,7 @@
+<library path="lib/libframe_processer">
+  <class name="detector::Subscriber" type="detector::Subscriber" base_class_type="rclcpp_components::NodeFactory">
+    <description>
+      A frame processing node.
+    </description>
+  </class>
+</library>
